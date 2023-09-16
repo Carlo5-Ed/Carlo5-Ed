@@ -1,16 +1,22 @@
-### Hi there 👋
+## olá mundo?🦄
+<!-- asdasdasda -->
+<div style="display: flex; justify-content: center; align-items: center;">
+            <img height="150em"
+                src="https://github-readme-stats.vercel.app/api?username=Carlo5-Ed-thomaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+            <img height="150em"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlo5-Ed-thomaz&layout=compact&langs_count=16&theme=dracula" />
+</div>
+<br>
+<img align="center" alt="rafa-C"height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+          
+##
+## Tecnologias 
 
-<!--
-**Carlo5-Ed/Carlo5-Ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br/>
+<img align="center"alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div></br/>
 
-Here are some ideas to get you started:
+##           cursando faculdade de Analises e Desenvolvimento de Sistemas👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                                                      
