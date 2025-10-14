@@ -32,5 +32,11 @@ DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )
 -
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlo5-Ed/Carlo5-Ed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlo5-Ed/Carlo5-Ed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Carlo5-Ed/Carlo5-Ed/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
